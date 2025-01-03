@@ -1,7 +1,6 @@
 # AccountantGPT
 
-![AccountantGPT Logo](https://github.com/milistu/AccountantGPT/blob/main/assets/AccountantGPT-Dark-Horizontal.png "AccountantGPT Dark Logo")
-![AccountantGPT Logo](https://github.com/milistu/AccountantGPT/blob/main/assets/AccountantGPT-Light-Horizontal.png "AccountantGPT Light Logo")
+![AccountantGPT Logo](https://github.com/lcubrilo/AccountantGPT/blob/main/assets/AccountantGPT-Dark-Horizontal.png)
 
 AccountantGPT is an innovative project designed to assist users in navigating the complex world of tax advisory.
 
