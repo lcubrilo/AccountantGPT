@@ -1,9 +1,11 @@
 apikey.txt
+*.zip
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+*.pyo
 
 # C extensions
 *.so
@@ -165,3 +167,27 @@ cython_debug/
 *.json
 *.jsonl
 .DS_Store
+
+dist/
+build/
+
+# Environment
+.venv/
+.env
+
+# Logs
+*.log
+
+# System
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+
+# Editor specific
+.idea/
+.vscode/
+
+# Pytest
